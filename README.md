@@ -2,7 +2,7 @@
 
 A self-motivated, fast learner and problem solver who enjoys building applications from scratch. I am passionate about creating beautiful, user-first experiences.
 
-## Specialist in Web/App Development
+### Specialist in Web/App Development
 
 I possess strong front-end skills focused on React and React Native frameworks, along with hands-on backend experience with Node.js. My expertise extends to both SQL and NoSQL databases, and I have experience building data pipelines with Python. Additionally, I am well-versed in agile workflows and methodologies, including Scrum, test-driven development, GitFlow, and continuous delivery.
 
