@@ -1,4 +1,4 @@
-# Andus Cheung 
+## About me
 
 A self-motivated, fast learner and problem solver who enjoys building applications from scratch. I am passionate about creating beautiful, user-first experiences.
 
@@ -24,4 +24,5 @@ Feel free to reach out to me for any collaborations or opportunities:
 
 - **Email:** [anduscheung18@gmail.com](mailto:anduscheung18@gmail.com)
 - **LinkedIn:** [Andus Cheung](https://www.linkedin.com/in/andus-cheung-0a4b07135/)
-- **GitHub:** [anduscheung]([https://github.com/yourusername](https://github.com/anduscheung))
+- **GitHub:** [anduscheung](https://github.com/anduscheung)
+- **Website:** [anduscheung.com](https://anduscheung.com)
