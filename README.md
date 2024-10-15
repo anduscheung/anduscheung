@@ -1,11 +1,10 @@
 ## About me
 
 A self-motivated, fast learner and problem solver who enjoys building applications from scratch. I am passionate about creating beautiful, user-first experiences.
-- **Email:** [anduscheung18@gmail.com](mailto:anduscheung18@gmail.com)
-- **LinkedIn:** [Andus Cheung](https://www.linkedin.com/in/andus-cheung-0a4b07135/)
-- **GitHub:** [anduscheung](https://github.com/anduscheung)
-- **Personal Website:** [anduscheung.com](https://anduscheung.com)
-- **A nice NPM package:** [react-elegant-timeline](https://www.npmjs.com/package/react-elegant-timeline)
+- **My personal website:** [anduscheung.com](https://anduscheung.com)
+- **My React timeline package:** [react-elegant-timeline](https://www.npmjs.com/package/react-elegant-timeline)
+- **My linkedIn:** [Andus Cheung](https://www.linkedin.com/in/andus-cheung-0a4b07135/)
+- **My email:** [anduscheung18@gmail.com](mailto:anduscheung18@gmail.com)
 
 ### My Motivation
 I thrive in dynamic environments where I can leverage my skills to create impactful solutions and continuously learn and grow as a developer.
