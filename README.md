@@ -2,10 +2,10 @@
 
 A self-motivated, fast learner and problem solver, I build frontends with React.js and backends with Node.js. Check out these projects to see my skills in action!
 - **[anduscheung.com](https://anduscheung.com):** My personal website, created using Figma for design and developed with Next.js.
-- **[react-elegant-timeline](https://www.npmjs.com/package/react-elegant-timeline):** A sleek and reusable timeline package published to NPM, built with React.js and bundled with rollup.js.
-- **[React-Node-TamperProof](https://github.com/anduscheung/React-Node-TamperProof)**: An MVP showcasing my expertise in data security, implemented with React.js and Node.js.
+- **[tarot-cards-picking](https://github.com/anduscheung/tarot-cards-picking)**: A tarot card picking website featuring advance CSS animations, designed in Figma and developed with React.js & Vite.
 - **[react-tax-calculator](https://github.com/anduscheung/react-tax-calculator)**: A React.js project showcasing a scalable, production-ready tax calculator app with clean, testable code, modern tools, and optimized performance.
-- **[tarot-cards-picking](https://github.com/anduscheung/tarot-cards-picking)**: A tarot card picking website featuring unique CSS animations, designed in Figma and developed with React.js & Vite.
+- **[React-Node-TamperProof](https://github.com/anduscheung/React-Node-TamperProof)**: An MVP showcasing my expertise in data security, implemented with React.js and Node.js.
+- **[react-elegant-timeline](https://www.npmjs.com/package/react-elegant-timeline):** A sleek and reusable timeline package published to NPM, built with React.js and bundled with rollup.js.
 - **[throttle & debounce visualization](https://github.com/anduscheung/throttle_and_debounce_visualization)**: A visualization tool I crafted to explain advanced React.js concepts with a clear and interactive UI.
 
 
